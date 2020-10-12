@@ -1,0 +1,4 @@
+Principios:
+Senha principal ao acertar;
+guardar senhas do banco de dados;
+recuperação de senha;
